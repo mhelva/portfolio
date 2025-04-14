@@ -1,19 +1,19 @@
 # Data Scientist/Machine Learning Engineer 
 
-
-
-### LSTM Model on Google Stock
-This project implements a Long Short-Term Memory (LSTM) neural network to predict Google's stock prices. It involves data preprocessing, model training, and evaluation to forecast future stock trends.
-
-![Visualization of predicted vs. actual stock prices](/images/stock_price_prediction.png)
-
-
 ---
 
 ### PyTorch Classification for Cancer Diagnosis
 
 
 Description: A PyTorch-based deep learning model for classifying cancerous and non-cancerous cells. It utilizes a neural network trained on medical imaging data.
+
+---
+
+### LSTM Model on Google Stock
+This project implements a Long Short-Term Memory (LSTM) neural network to predict Google's stock prices. It involves data preprocessing, model training, and evaluation to forecast future stock trends.
+
+![Visualization of predicted vs. actual stock prices](/images/stock_price_prediction.png)
+
 
 ---
 
@@ -31,7 +31,7 @@ Description: An interactive web application built with Streamlit for visualizing
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 - 📧 Email: m.helva34@gmail.com  
-- 🧑‍💼 [LinkedIn]((https://www.linkedin.com/in/mehmet-helva-b2993a273/)
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/mehmet-helva-b2993a273/)
 - 💻 [GitHub](https://github.com/mhelva)
