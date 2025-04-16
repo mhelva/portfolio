@@ -45,16 +45,18 @@ Forecasted sensor count over time using both classical machine learning algorith
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 [![GitHub Repo](https://img.shields.io/badge/Repo-time_series_analysis-blue?style=flat-square&logo=github)](https://github.com/mhelva/time_series_analysis)
 
-![decomposition](images/Stl_decomposition.png)
-*Figure 1: Decomposition of Google Stock.*
+![decomposition](images/anomaly_detection_zscore.png)
+*Figure 1: Anomaly Detection Using z-score*
 ![stock price](images/lstm_actual_vs_predicted.png)
 *Figure 2: LSTM Prediction on Sensor Count.*
 
 ---
 
-### Streamlit Data Visualization
+## CSV Visualizer Web App
 
-Description: An interactive web application built with Streamlit for visualizing datasets. Users can upload data and create various plots dynamically. \
+Developed an interactive Streamlit web application that allows users to upload CSV files and instantly generate descriptive statistics and summaries, exploratory plots, and basic visualizations.\
+
+Hosted on Streamlit Community Cloud [1](https://mhelva-datavisualization.streamlit.app/) \
 \
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
