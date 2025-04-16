@@ -36,5 +36,5 @@ Description: An interactive web application built with Streamlit for visualizing
 
 ### 📫 Contact
 - 📧 [Email](m.helva34@gmail.com)
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/mehmet-helva-b2993a273/)
-- 💻 [GitHub](https://github.com/mhelva)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmet-helva-b2993a273/)
+- [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mhelva)
