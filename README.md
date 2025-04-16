@@ -54,9 +54,10 @@ Forecasted sensor count over time using both classical machine learning algorith
 
 ## CSV Visualizer Web App
 
-Developed an interactive Streamlit web application that allows users to upload CSV files and instantly generate descriptive statistics and summaries, exploratory plots, and basic visualizations.\
+Developed an interactive Streamlit web application that allows users to upload CSV files and instantly generate descriptive statistics and summaries, basic visualizations with multiple chart types: line, bar, histogram, scatter, pie.\
 
-Hosted on Streamlit Community Cloud [1](https://mhelva-datavisualization.streamlit.app/) \
+Hosted on Streamlit Community Cloud\ 
+[Streamlit App](https://mhelva-datavisualization.streamlit.app/) \
 \
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
