@@ -35,7 +35,7 @@ Description: An interactive web application built with Streamlit for visualizing
 
 
 ---
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)]([https://github.com/your-username](https://github.com/mhelva/streamlit_data_visualization))
 
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python&logoColor=yellow)
