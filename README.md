@@ -17,7 +17,7 @@ This project implements a Long Short-Term Memory (LSTM) neural network to predic
 
 <figure>
   <img src="images/stock_price_prediction.png" alt="Confusion Matrix" width="500">
-  <figcaption><em>Figure 1: Confusion matrix for the classification model.</em></figcaption>
+  <figcaption><strong>Figure 1<strong>: Confusion matrix for the classification model.</figcaption>
 </figure>
 
 ---
