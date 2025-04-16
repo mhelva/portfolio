@@ -27,6 +27,7 @@ Description: A comprehensive analysis of time series data using statistical and 
 ### Streamlit Data Visualization
 
 Description: An interactive web application built with Streamlit for visualizing datasets. Users can upload data and create various plots dynamically.
+[![GitHub Repo](https://img.shields.io/badge/Repo-YourRepoName-blue?logo=github)](https://github.com/your-username/your-repo)
 
 
 ---
