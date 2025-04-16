@@ -12,11 +12,8 @@ Description: A PyTorch-based deep learning model for classifying cancerous and n
 ### LSTM Model on Google Stock
 This project implements a Long Short-Term Memory (LSTM) neural network to predict Google's stock prices. It involves data preprocessing, model training, and evaluation to forecast future stock trends.
 
-
-<figure>
-  <img src="images/stock_price_prediction.png" alt="LSTM Model" width="500">
-  <figcaption><strong>Figure 1<strong>: LSTM Prediction on Stock Market Data </figcaption>
-</figure>
+![Confusion Matrix](images/stock_price_prediction.png)
+*Figure 1: LSTM Prediction on Stock Market Data.*
 
 ---
 
