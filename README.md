@@ -25,6 +25,7 @@ In this project, I built a binary classification model using PyTorch to distingu
 In this project, I implemented a Long Short-Term Memory (LSTM) neural network to forecast Google stock prices using historical data from 2016 to 2021. LSTM, a type of recurrent neural network (RNN), was chosen for its ability to model long-term dependencies in sequential data. The model effectively captured trends and temporal patterns in stock prices, demonstrating the power of deep learning in time series forecasting. \
 \
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python&logoColor=yellow)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 [![GitHub Repo](https://img.shields.io/badge/Repo-LSTM_model_on_google_stock-blue?style=flat-square&logo=github)](https://github.com/mhelva/LSTM_model_on_google_stock)
 
@@ -39,7 +40,13 @@ In this project, I implemented a Long Short-Term Memory (LSTM) neural network to
 ## Time Series Analysis
 
 
-Description: A comprehensive analysis of time series data using statistical and machine learning methods. It includes decomposition, forecasting, and anomaly detection techniques.
+Description: A comprehensive analysis of time series data using statistical and machine learning methods. It includes decomposition, forecasting, and anomaly detection techniques.\
+\
+![Python](https://img.shields.io/badge/Python-377)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+[![GitHub Repo](https://img.shields.io/badge/Repo-time_series_analysis-blue?style=flat-square&logo=github)](https://github.com/mhelva/time_series_analysis)
+
 
 
 ---
