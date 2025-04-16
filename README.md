@@ -29,13 +29,9 @@ Description: A comprehensive analysis of time series data using statistical and 
 ### Streamlit Data Visualization
 
 Description: An interactive web application built with Streamlit for visualizing datasets. Users can upload data and create various plots dynamically.
-[![GitHub Repo](https://img.shields.io/badge/Repo-YourRepoName-blue?logo=github)](https://github.com/your-username/your-repo)
+[![GitHub Repo](https://img.shields.io/badge/Repo-YourRepoName-blue?logo=github)]([https://github.com/your-username/your-repo](https://github.com/mhelva/streamlit_data_visualization))
 
 ![Python](https://img.shields.io/badge/Python-377)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
 ---
