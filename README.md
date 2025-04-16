@@ -30,6 +30,10 @@ Description: An interactive web application built with Streamlit for visualizing
 [![GitHub Repo](https://img.shields.io/badge/Repo-YourRepoName-blue?logo=github)](https://github.com/your-username/your-repo)
 
 ![Python](https://img.shields.io/badge/Python-377)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-username)
