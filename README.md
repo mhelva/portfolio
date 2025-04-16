@@ -36,11 +36,6 @@ Description: An interactive web application built with Streamlit for visualizing
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmet-helva-b2993a273/)
-[![GitHub](https://img.shields.io/badge/GitHub-mhelva-181717?style=for-the-badge&logo=github)](https://github.com/mhelva)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.helva34@gmail.com)
-
-
-- 📧 [Email](m.helva34@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmet-helva-b2993a273/)
-- [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mhelva)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmet-helva-b2993a273/)
+* [![GitHub](https://img.shields.io/badge/GitHub-mhelva-181717?style=for-the-badge&logo=github)](https://github.com/mhelva)
+* [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.helva34@gmail.com)
