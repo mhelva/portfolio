@@ -4,14 +4,14 @@
 
 ## Breast Cancer Tumor Classification with PyTorch 
 
-In this project, I built a binary classification model using PyTorch to distinguish between benign and malignant tumors based on the Breast Cancer Wisconsin (Diagnostic) dataset. The model was built using PyTorch, showcasing its flexibility for deep learning workflows. A simple feedforward neural network was trained to distinguish between the two classes, and its performance was evaluated using accuracy, confusion matrix, and loss metrics. \
+This project demonstrates a binary classification task using the Breast Cancer Wisconsin (Diagnostic) dataset. The objective is to classify tumors as either benign or malignant based on input features such as radius, texture, smoothness, and other cell characteristics. The model was built using PyTorch, showcasing its flexibility for deep learning workflows. A simple feedforward neural network was trained to distinguish between the two classes, and its performance was evaluated using accuracy, confusion matrix, and loss metrics. \
 \
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python&logoColor=yellow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 [![GitHub Repo](https://img.shields.io/badge/Repo-pytorch_classification_canser_diagnostic-blue?style=flat-square&logo=github)](https://github.com/mhelva/pytorch_classification_canser_diagnostic)
 
-![decomposition](images/Stl_decomposition.png)
-*Figure 1: Decomposition of Google Stock.*
+![accuracy](images/accuracy_curve.png)
+*Figure 1: Training and Test Accuracy Curve.*
 
 
 
@@ -37,17 +37,18 @@ In this project, I implemented a Long Short-Term Memory (LSTM) neural network to
 
 ---
 
-## Time Series Analysis
-
-
-Description: A comprehensive analysis of time series data using statistical and machine learning methods. It includes decomposition, forecasting, and anomaly detection techniques.\
+## Sensor Activity Forecasting with Machine Learning & Deep Learning
+Forecasted sensor count over time using both classical machine learning algorithms and deep learning techniques. The goal was to model temporal patterns in sensor data and predict future sensor activity based on historical time series data, enabling better insights into trends, anomalies, and overall system behavior.\
 \
 ![Python](https://img.shields.io/badge/Python-377)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 [![GitHub Repo](https://img.shields.io/badge/Repo-time_series_analysis-blue?style=flat-square&logo=github)](https://github.com/mhelva/time_series_analysis)
 
-
+![decomposition](images/Stl_decomposition.png)
+*Figure 1: Decomposition of Google Stock.*
+![stock price](images/lstm_actual_vs_predicted.png)
+*Figure 2: LSTM Prediction on Sensor Count.*
 
 ---
 
