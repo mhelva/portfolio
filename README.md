@@ -2,10 +2,20 @@
 
 ---
 
-### PyTorch Classification for Cancer Diagnosis
+## Breast Cancer Tumor Classification with PyTorch 
+
+In this project, I built a binary classification model using PyTorch to distinguish between benign and malignant tumors based on the Breast Cancer Wisconsin (Diagnostic) dataset. The model was built using PyTorch, showcasing its flexibility for deep learning workflows. A simple feedforward neural network was trained to distinguish between the two classes, and its performance was evaluated using accuracy, confusion matrix, and loss metrics. \
+\
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python&logoColor=yellow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+[![GitHub Repo](https://img.shields.io/badge/Repo-pytorch_classification_canser_diagnostic-blue?style=flat-square&logo=github)](https://github.com/mhelva/pytorch_classification_canser_diagnostic)
+
+![decomposition](images/Stl_decomposition.png)
+*Figure 1: Decomposition of Google Stock.*
 
 
-Description: A PyTorch-based deep learning model for classifying cancerous and non-cancerous cells. It utilizes a neural network trained on medical imaging data.
+
+
 
 ---
 
