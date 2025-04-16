@@ -13,11 +13,10 @@ Description: A PyTorch-based deep learning model for classifying cancerous and n
 
 ## Google Stock Price Forecasting with LSTM
 In this project, I implemented a Long Short-Term Memory (LSTM) neural network to forecast Google stock prices using historical data from 2016 to 2021. LSTM, a type of recurrent neural network (RNN), was chosen for its ability to model long-term dependencies in sequential data. The model effectively captured trends and temporal patterns in stock prices, demonstrating the power of deep learning in time series forecasting. \
+\
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python&logoColor=yellow)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 [![GitHub Repo](https://img.shields.io/badge/Repo-LSTM_model_on_google_stock-blue?style=flat-square&logo=github)](https://github.com/mhelva/LSTM_model_on_google_stock)
-
-
 
 ![decomposition](images/Stl_decomposition.png)
 *Figure 1: Decomposition of Google Stock.*
