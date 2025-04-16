@@ -31,8 +31,7 @@ Description: An interactive web application built with Streamlit for visualizing
 
 
 ---
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/your-username)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-username)
 
 ### 📫 Contact
 - 📧 [Email](m.helva34@gmail.com)
