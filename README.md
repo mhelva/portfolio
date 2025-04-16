@@ -9,6 +9,8 @@ Description: A PyTorch-based deep learning model for classifying cancerous and n
 
 ---
 
+
+
 ### LSTM Model on Google Stock
 This project implements a Long Short-Term Memory (LSTM) neural network to predict Google's stock prices. It involves data preprocessing, model training, and evaluation to forecast future stock trends.
 ![Confusion Matrix](images/stock_price_prediction.png)
@@ -37,6 +39,17 @@ Description: An interactive web application built with Streamlit for visualizing
 
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-username)
+
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python&logoColor=yellow)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat-square&logo=jupyter&logoColor=F37626)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+
+
+
+
 
 ### Contact
 
