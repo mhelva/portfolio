@@ -83,7 +83,7 @@ Description: An interactive web application built with Streamlit for visualizing
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-2F2F2F?style=flat-square)
+#![Gradio](https://img.shields.io/badge/-Gradio-2F2F2F?style=flat-square)
 
 
 
