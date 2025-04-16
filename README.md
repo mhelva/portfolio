@@ -25,6 +25,7 @@ This project demonstrates a binary classification task using the Breast Cancer W
 In this project, I implemented a Long Short-Term Memory (LSTM) neural network to forecast Google stock prices using historical data from 2016 to 2021. LSTM, a type of recurrent neural network (RNN), was chosen for its ability to model long-term dependencies in sequential data. The model effectively captured trends and temporal patterns in stock prices, demonstrating the power of deep learning in time series forecasting. \
 \
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 [![GitHub Repo](https://img.shields.io/badge/Repo-LSTM_model_on_google_stock-blue?style=flat-square&logo=github)](https://github.com/mhelva/LSTM_model_on_google_stock)
@@ -41,6 +42,7 @@ In this project, I implemented a Long Short-Term Memory (LSTM) neural network to
 Forecasted sensor count over time using both classical machine learning algorithms and deep learning techniques. The goal was to model temporal patterns in sensor data and predict future sensor activity based on historical time series data, enabling better insights into trends, anomalies, and overall system behavior.\
 \
 ![Python](https://img.shields.io/badge/Python-377)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 [![GitHub Repo](https://img.shields.io/badge/Repo-time_series_analysis-blue?style=flat-square&logo=github)](https://github.com/mhelva/time_series_analysis)
@@ -63,18 +65,13 @@ Hosted on [Streamlit Community Cloud](https://mhelva-datavisualization.streamlit
 ![Seaborn](https://img.shields.io/badge/-Seaborn-42A5F5?style=flat-square)
 [![GitHub Repo](https://img.shields.io/badge/Repo-streamlit_data_visualization-blue?logo=github)](https://github.com/mhelva/streamlit_data_visualization)
 
-
-
-
-
 ---
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)]([https://github.com/your-username](https://github.com/mhelva/streamlit_data_visualization))
 
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python&logoColor=yellow)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat-square&logo=jupyter&logoColor=F37626)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+
 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
