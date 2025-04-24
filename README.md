@@ -2,7 +2,7 @@
 Proficient in necessary tools and methods eager to apply expertise in data science and ML engineering to deliver data-driven insights and develop cutting-edge solutions in a collaborative environment.
 
 ---
-## Selected projects in data science, machine learning and NLP
+## Selected Projects in Data Science, Machine Learning and Deep Learning
 ---
 ### Breast Cancer Tumor Classification with PyTorch 
 
